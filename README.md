@@ -13,5 +13,5 @@
 
 ### GitHib Stats
 
-[![sachijay's github stats](https://github-readme-stats.vercel.app/api?username=sachijay&count_private=true)](https://github.com/sachijay/github-readme-stats)
+[![sachijay's github stats](https://github-readme-stats.vercel.app/api?username=sachijay&count_private=true&show_icons=true)](https://github.com/sachijay/github-readme-stats)
 
