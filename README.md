@@ -28,6 +28,7 @@
 [<img align="left" alt="Shiny" height="26px" src="https://teachdatascience.com/post/shiny1/shinyhex.jpg" />](https://shiny.rstudio.com/)
 [<img align="left" alt="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />](https://www.python.org/)
 [<img align="left" alt="JAVA" height="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.python.org/)
+[<img align="left" alt="C++" height="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://isocpp.org/)
 
 <br />
 <br />
