@@ -21,18 +21,16 @@
 
 <br />
 
-### Languages and Tools:
+### Some Languages and Tools:
 
 [<img align="left" alt="R" height="26px" src="https://www.r-project.org/logo/Rlogo.png" />](https://www.r-project.org/)
 [<img align="left" alt="RStudio" height="26px" src="https://d33wubrfki0l68.cloudfront.net/d790b8b5e7bce2bd942b191cced9d6e1b68f1c07/6a313/assets/img/rstudio-desktop@2x.png" />](https://rstudio.com/products/rstudio/)
 [<img align="left" alt="Shiny" height="26px" src="https://teachdatascience.com/post/shiny1/shinyhex.jpg" />](https://shiny.rstudio.com/)
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)
-![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
+[<img align="left" alt="Python" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />](https://www.python.org/)
+[<img align="left" alt="JAVA" height="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />](https://www.python.org/)
 
 <br />
 <br />
-
-
 
 ---
 
